@@ -1,2 +1,2 @@
 # Algorithm-Visualization
-使用koltin和JavaFX进行算法可视化
+使用koltin和JavaFX或JavaSwing进行算法可视化
